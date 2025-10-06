@@ -122,7 +122,7 @@ const questions = [
     },
     
     {
-        question: "Além de detectar bugs, qual outro benefício crucial um bom conjunto de Testes Unitários oferece para o design do código?",
+        question: "Além de detectar bugs, qual outro benefício crucial que um bom conjunto de Testes Unitários oferece para o design do código?",
         options: [
             "Eles substituem a documentação técnica oficial, pois o código se torna autoexplicativo.",
             "Eles agem como uma forma de documentação executável e incentivam o desenvolvimento de classes e métodos mais coesos e menos acoplados.",
